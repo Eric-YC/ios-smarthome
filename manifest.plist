@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.55.46:8081/test/SmartHome-V1.0.5-test.ipa</string>
+					<string>http://sohord4.h3c.com/test/SmartHome-V1.0.5-test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.55.46:8081/test/magic.png</string>
+					<string>http://sohord4.h3c.com/test/magic.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.55.46:8081/test/magic.jpg</string>
+					<string>http://sohord4.h3c.com/test/magic.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
