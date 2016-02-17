@@ -23,7 +23,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.124.9:8081/test/magic.jpg</string>
+					<string>http://192.168.124.9:8081/smarthomeback/images/magic.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
