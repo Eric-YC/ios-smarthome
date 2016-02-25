@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.55.7/appversionios/SmartHome-V1.0.5-test.ipa</string>
+					<string>http://sohord10.h3c.com/appversionios/SmartHome-V1.0.8-beta.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://192.168.55.7/appversionios/magic.png</string>
+					<string>http://sohord10.h3c.com/appversionios/magic.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://192.168.55.7/appversionios/magic.jpg</string>
+					<string>http://sohord10.h3c.com/appversionios/magic.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.h3c.SmartHome</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
